@@ -1,6 +1,6 @@
 languageCode: en-us
 title: vimkim's tech study blog
-theme: ["PaperMod"]
+theme: ["github-style"]
 paginate: 10
 
 enableRobotsTXT: true
