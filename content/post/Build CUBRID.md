@@ -1,5 +1,5 @@
 +++
-title = '큐브리드 빌드하기'
+title = 'Build CUBRID'
 date = 2024-04-18T07:24:35+09:08
 +++
 
