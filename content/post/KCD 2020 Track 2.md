@@ -1,5 +1,5 @@
 +++
-title = 'KCD 2020 Track 2'
+title = 'KCD 2020 Track 2 큐브리드에 기여해보기'
 date = 2024-04-18T07:24:35+09:00
 +++
 
