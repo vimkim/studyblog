@@ -1,7 +1,9 @@
 +++
-title = 'KCD 2020 Track 2 큐브리드에 기여해보기'
+title = 'KCD 2020 Track 2'
 date = 2024-04-18T07:24:35+09:00
 +++
+
+# KCD 2020 Track 2 큐브리드에 기여해보기
 
 https://www.youtube.com/watch?v=CgxiNF6xigY&t=49s&ab_channel=OpenUP-%EC%98%A4%ED%94%88%EC%97%85
 
@@ -41,4 +43,3 @@ https://www.youtube.com/watch?v=CgxiNF6xigY&t=49s&ab_channel=OpenUP-%EC%98%A4%ED
 - 번역
 - 메뉴얼 문서 작성, 수정
 - 디자인
-- 모든 의견 제
